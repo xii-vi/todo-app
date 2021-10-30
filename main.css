@@ -1,0 +1,42 @@
+body{
+    background-color: #f5f5dc;
+    background-image: url("/todo/image/undraw_to_do_list_re_9nt7.svg");
+    padding-inline-start: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header{
+    
+    font-size: xx-large;
+    font-weight: bold;
+    margin: 2rem 2rem;
+}
+
+.text{
+    border-radius: 0.5rem;
+    font-size: xx-large;
+    margin: 1rem 1rem;
+    padding-left: 1rem;
+    float: none;
+    max-width: 600px;
+}
+button{
+    border-radius: 0.5rem;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: white;
+}
+
+.todo-list{
+
+    border-radius: 0.5rem;
+    background-color: white;
+    padding: 0.5rem 0.5rem;
+    list-style: none;
+    font-size: xx-large;
+    font-weight: bold;
+    max-width: 400px;
+    margin: 1rem auto;
+}
+
